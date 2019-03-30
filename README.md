@@ -44,7 +44,7 @@ Display block creates a break in the flow of the HTML, and allows the element to
 have an explicit width, and height.
 
 Display inline only takes up the exact space needed by the content, and allows
-elements to next to eachother without breaking the flow of the HTML.
+elements to stack next to eachother without breaking the flow of the HTML.
 
 3. What are the 4 areas of the box model?
 
